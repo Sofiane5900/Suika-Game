@@ -5,7 +5,7 @@ export const FRUITS = [
       color: "#F20306",
     },
     {
-      label: "strawberry",
+      label: "strawberry.png",
       radius: 50 / 2,
       color: "#FF624C",
     },
